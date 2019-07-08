@@ -8273,6 +8273,11 @@ vue@^2.6.10:
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.10.tgz#a72b1a42a4d82a721ea438d1b6bf55e66195c637"
   integrity sha512-ImThpeNU9HbdZL3utgMCq0oiMzAkt1mcgy3/E6zWC/G6AaQoeuFdsl9nDhTDU3X1R6FK7nsIUuRACVcjI+A2GQ==
 
+w3-css@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/w3-css/-/w3-css-4.1.0.tgz#7872f2738d96a5732bac7718869151e3a5373ce4"
+  integrity sha512-nBomstRa3ITEDFG3EsYvVijueT3O1iwmjf96656VOR2BG6cwfkKwtwy/Gat7golUaA9ULPZPpo/Vj+3mYkeVfw==
+
 watchpack@^1.5.0:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/watchpack/-/watchpack-1.6.0.tgz#4bc12c2ebe8aa277a71f1d3f14d685c7b446cd00"
